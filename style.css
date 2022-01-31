@@ -12,6 +12,9 @@
     height: 100vh;
     align-items: center;
     justify-content: center;
+    
+   
+   
 }
 
 .box{
@@ -24,6 +27,7 @@
     background-color: rgb(154, 153, 193);
     border-radius: 5px;
     color: whitesmoke;
+    zoom: 0.75;
 }
 
 .box input {
